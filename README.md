@@ -14,6 +14,8 @@ Curso oferecido gratuitamente pela plataforma online <a href="https://dio.me/" r
 <g-emoji class="g-emoji" alias="stop_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d1.png">🛑</g-emoji> Pré-requistos
 </h2>
 
+
+
 <ul class="contains-task-list">
   <li class="task-list-item">
     <p dir="auto"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Fundamentos do Spring Boot</p>
