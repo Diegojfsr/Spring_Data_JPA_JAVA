@@ -105,8 +105,6 @@ Indica qual é o lado inverso ou não dominante da relação.</p>
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.</p>
 
 
-
-
 <p dir="auto"> Projeto desenvolvido utilizando a ajuda e os conhecimentos da Especialista: 
 <a href="https://github.com/cami-la" title="cami-la" rel="nofollow">cami-la <g-emoji class="g-emoji" alias="hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png">♥</g-emoji> </a></p>
   
